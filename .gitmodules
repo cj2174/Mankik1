@@ -1,0 +1,6 @@
+[submodule "Front-End"]
+    path = Front-End
+    url = https://github.com/yeni023/Front-End.git
+[submodule "season2"]
+    path = season2
+    url = https://github.com/JY-02/season2.git
